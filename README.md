@@ -308,5 +308,4 @@
 
 Seguindo esses passos, você criou um Gerenciador de Notas com uma interface de linha de comando usando Java e Spring
 Boot. Esta aplicação permite a gestão básica de notas diretamente pelo terminal, utilizando uma estrutura de banco de
-dados para armazenamento persistente.#   g e r e n c i a d o r - n o t a s - c l i - s p r i n g  
- 
+dados para armazenamento persistente.
